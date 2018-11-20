@@ -39,8 +39,8 @@ To get started on developing for google chrome extension, [this link](https://de
 
 
 ## Credits and contact
-- WebGL Implementation of Flowabs by Heiko Thiel from the Hasso-Plattner-Institut, extended and modified by [Amir Semmo](https://hpi.de/doellner/people/current/semmo.html).
+- WebGL Implementation of Flowabs by Heiko Thiel from the Hasso-Plattner-Institut, extended and modified by [Amir Semmo](http://asemmo.github.io).
 
-- The project main investigator are [Lonni Besançon](http://lonnibesancon.me), [Amir Semmo](https://hpi.de/doellner/people/current/semmo.html), [Tobias Isenberg](https://tobias.isenberg.cc), and [Pierre Dragicevic](http://dragice.fr).
+- The project main investigator are [Lonni Besançon](http://lonnibesancon.me), [Amir Semmo](http://asemmo.github.io), [Tobias Isenberg](https://tobias.isenberg.cc), and [Pierre Dragicevic](http://dragice.fr).
 
 If you have questions concerning the research project, feel free to contact lonni.besancon[at]gmail.com
