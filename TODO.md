@@ -10,5 +10,7 @@ X C9/AS) Resolution-dependant parameters
 C10) GUI to adjust the parameters
 X C11/AS) Add a button to get the original image back
 C12) Adjust the parameters based on the likelihood that the image is NSFW
+C13) Add Icon for the extension
+C14) Port the extension to other browsers
 
 X = done
