@@ -4,7 +4,9 @@
 
 Arkangel is a Google Chrome extension to reduce the affective responses (aversion, disgust,...) to surgical images while browsing the web. It automatically processes images on webpages with a WebGL implementation of Flowabs, a filtering technique initially proposed by Kyprianidis and  Döllner. 
 
-It will transform an image such as a lasagna picture into a cartoon-like image of lasagna ![Example of Flowabs](https://i.imgur.com/z2oHoXk.jpg).
+It will transform an image such as a lasagna picture into a cartoon-like image of lasagna. 
+
+![Example of Flowabs](https://i.imgur.com/z2oHoXk.jpg)
 
 The research paper which justify the use of this specific technique and its efficiency to reduce affective responses on surgical content can be freely accessed [here](https://hal.inria.fr/hal-01795744/file/Besancon_2018_RAR.pdf).
 The pre-registered study and all supplementary materials used in this paper are available [here](https://osf.io/4pfes/).
@@ -36,5 +38,9 @@ Contributions are welcome to improve this work. Feel free to fork it and work on
 To get started on developing for google chrome extension, [this link](https://developer.chrome.com/extensions/getstarted) will be helpful.
 
 
-## Credits
-WebGL Implementation of Flowabs by Heiko Thiel from the Hasso-Plattner-Institut, extended and modified by Amir Semmo.
+## Credits and contact
+- WebGL Implementation of Flowabs by Heiko Thiel from the Hasso-Plattner-Institut, extended and modified by [Amir Semmo](https://hpi.de/doellner/people/current/semmo.html).
+
+- The project main investigator are [Lonni Besançon](http://lonnibesancon.me), [Amir Semmo](https://hpi.de/doellner/people/current/semmo.html), [Tobias Isenberg](https://tobias.isenberg.cc), and [Pierre Dragicevic](http://dragice.fr).
+
+If you have questions concerning the research project, feel free to contact lonni.besancon[at]gmail.com
