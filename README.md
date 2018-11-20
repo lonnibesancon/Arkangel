@@ -4,7 +4,7 @@
 
 Arkangel is a Google Chrome extension to reduce the affective responses (aversion, disgust,...) to surgical images while browsing the web. It automatically processes images on webpages with a WebGL implementation of Flowabs, a filtering technique initially proposed by Kyprianidis and  Döllner. 
 
-It will transform an image such as this lasagna picture![Picture of Lasagna](https://i.imgur.com/wFTE9RO.jpg =256x192) into this cartoon-like image of lasagna ![Picture of Lasagna Flowabs](https://i.imgur.com/abszcc4.jpg=256x192).
+It will transform an image such as a lasagna picture into a cartoon-like image of lasagna ![Example of Flowabs](https://i.imgur.com/adJEjeT.jpg).
 
 The research paper which justify the use of this specific technique and its efficiency to reduce affective responses on surgical content can be freely accessed [here](https://hal.inria.fr/hal-01795744/file/Besancon_2018_RAR.pdf).
 The pre-registered study and all supplementary materials used in this paper are available [here](https://osf.io/4pfes/).
