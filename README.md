@@ -1,6 +1,6 @@
-#Arkangel: a browser extension to reduce affective responses to surgical images
+# Arkangel: a browser extension to reduce affective responses to surgical images
 
-##About
+## About
 
 Arkangel is a Google Chrome extension to reduce the affective responses (aversion, disgust,...) to surgical images while browsing the web. It automatically processes images on webpages with a WebGL implementation of Flowabs, a filtering technique initially proposed by Kyprianidis and  Döllner. 
 
@@ -9,7 +9,7 @@ The pre-registered study and all supplementary materials used in this paper are 
 
 The current version of this software is only available for Google Chrome, but we are looking to port this to other browsers too (see point C14 of the ```TODO.md```). The extension has not been released yet to the Chrome Web Store but will soon be released.
 
-##How to?
+## How to?
 
 To try the extension before its release to the Chrome Web Store, please download this repository and follow the steps described by [the getting started on google chrome extensions](https://developer.chrome.com/extensions/getstarted).
 Once you have it running, all images visible in webpages will be automatically processed. Since the processing of images may take time, images are first heavily blurred before their processed version is displayed.
@@ -25,14 +25,14 @@ Once you have it running, all images visible in webpages will be automatically p
 		2. "Edge enhancement". It controls the strength of the accentuated contours on the image.
 	- Use the sliders to adjust these two values and quit.
 
-##Contributions
+## Contributions
 
 Contributions are welcome to improve this work. Feel free to fork it and work on the points already proposed in ```TODO.md```, or suggest new ones by opening an issue.
 
-##Help
+## Help
 
 To get started on developing for google chrome extension, [this link](https://developer.chrome.com/extensions/getstarted) will be helpful.
 
 
-##Credits
+## Credits
 WebGL Implementation of Flowabs by Heiko Thiel from the Hasso-Plattner-Institut, extended and modified by Amir Semmo.
