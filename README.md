@@ -11,7 +11,7 @@ It will transform an image such as a lasagna picture into a cartoon-like image o
 We chose this specific technique and the default parameters based on published research. 
 The research paper(s) and material are listed below:
 - [The research paper investigating which technique to use](https://hal.inria.fr/hal-01795744/file/Besancon_2018_RAR.pdf).
-- [The pre-registered study and all supplementary materials used in this paper](https://osf.io/4pfes/)
+- [The pre-registered study and all supplementary materials used in this paper](https://osf.io/4pfes/).
 
 The current version of this software is only available for Google Chrome, but we are looking to port this to other browsers too (see point C14 of the ```TODO.md```). The extension has not been released yet to the Chrome Web Store but will soon be released.
 
