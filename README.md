@@ -1,4 +1,4 @@
-# Arkangel: A Browser Extension To Reduce Affective Responses
+# Arkangel: A Browser Extension To Reduce Affective Responses To Surgical Media
 
 ## About
 
