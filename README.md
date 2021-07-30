@@ -10,7 +10,10 @@ It will transform an image such as a lasagna picture into a cartoon-like image o
 
 We chose this specific technique and the default parameters based on published research. 
 The research paper(s) and material are listed below:
-- [The research paper investigating which technique to use](https://hal.inria.fr/hal-01795744/file/Besancon_2018_RAR.pdf).
+- [A TEDx talk of our research project](https://youtu.be/pDHomZ8FEoU).
+- [Reducing Affective Responses to Surgical Images and Videos Through Stylization](https://hal.inria.fr/hal-02381513v2/document) (extended journal paper).
+- [Reducing Affective Responses to Surgical Images through Color Manipulation and Stylization](https://hal.inria.fr/hal-01795744/file/Besancon_2018_RAR.pdf) (initial conference paper).
+- [Service-based Analysis and Abstraction for Content Moderation of Digital Images](https://openreview.net/pdf?id=4j3avB-mrk) (new "system" paper).
 - [The pre-registered study and all supplementary materials used in this paper](https://osf.io/4pfes/).
 
 The current version of this software is only available for Google Chrome, but we are looking to port this to other browsers too (see point C14 of the ```TODO.md```). The extension has not been released yet to the Chrome Web Store but will soon be released.
